@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>Wink. — Login</title>
+    <title>Jebiv. — Login</title>
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Merriweather|Nunito:200,200i,300,300i,400,400i,600,600i,800,800i,900,900i" rel="stylesheet">
@@ -21,7 +21,7 @@
     <div class="xl:w-1/2 mx-auto">
         <div class="flex items-center mb-10">
             <h2 class="mr-2 font-semibold font-serif" :class="{'hidden': hideLogoOnSmallScreens, 'sm:block': hideLogoOnSmallScreens}">
-                <span class="text-light">W</span>ink.
+                <span class="text-light">J</span>biv.
             </h2>
 
             <h2 class="font-normal">— Log In</h2>
